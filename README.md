@@ -1,5 +1,5 @@
 ## 前言
-本文的前身是源自github上的项目[awesome-github-vue](https://github.com/surmon-china/vue-touch-ripple),但由于该项目上次更新时间为2017年6月12日，很多内容早已过期或是很多近期优秀组件未被收录，所以小肆今天（2019/01/19）重新更新了内容并新建项目[awesome-vue](git@github.com:Feleti/awesome-vue.git)。
+本文的前身是源自github上的项目[awesome-github-vue](https://github.com/opendigg/awesome-github-vue),但由于该项目上次更新时间为2017年6月12日，很多内容早已过期或是很多近期优秀组件未被收录，所以小肆今天（2019/01/19）重新更新了内容并新建项目[awesome-vue](https://github.com/Feleti/awesome-vue)。
 
 #### 针对原项目小肆做了如下几点更新
 - 更新全部项目github上的star数
